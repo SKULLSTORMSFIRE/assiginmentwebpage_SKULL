@@ -1,0 +1,257 @@
+{
+    "year": 1997,
+    "data": [
+        {
+            "image": {
+                "title": "Bee Gees in 1978 (top to bottom) Barry, Robin, and Maurice Gibb",
+                "source": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bee_Gees_1977.JPG/75px-Bee_Gees_1977.JPG"
+            },
+            "band": {
+                "name": "Bee Gees",
+                "url": "http://wikipedia.org/wiki/Bee_Gees"
+            },
+            "inducted_members": [
+                {
+                    "name": "Barry Gibb",
+                    "url": "http://wikipedia.org/wiki/Barry_Gibb"
+                },
+                {
+                    "name": "Maurice Gibb",
+                    "url": "http://wikipedia.org/wiki/Maurice_Gibb"
+                },
+                {
+                    "name": "Robin Gibb",
+                    "url": "http://wikipedia.org/wiki/Robin_Gibb"
+                }
+            ],
+            "inducted_by": {
+                "name": "Brian Wilson",
+                "url": "http://wikipedia.org/wiki/Brian_Wilson"
+            }
+        },
+        {
+            "image": {},
+            "band": {
+                "name": "Buffalo Springfield",
+                "url": "http://wikipedia.org/wiki/Buffalo_Springfield"
+            },
+            "inducted_members": [
+                {
+                    "name": "Richie Furay",
+                    "url": "http://wikipedia.org/wiki/Richie_Furay"
+                },
+                {
+                    "name": "Dewey Martin",
+                    "url": "http://wikipedia.org/wiki/Dewey_Martin_(musician)"
+                },
+                {
+                    "name": "Bruce Palmer",
+                    "url": "http://wikipedia.org/wiki/Bruce_Palmer"
+                },
+                {
+                    "name": "Stephen Stills",
+                    "url": "http://wikipedia.org/wiki/Stephen_Stills"
+                },
+                {
+                    "name": "Neil Young",
+                    "url": "http://wikipedia.org/wiki/Neil_Young"
+                }
+            ],
+            "inducted_by": {
+                "name": "Tom Petty",
+                "url": "http://wikipedia.org/wiki/Tom_Petty"
+            }
+        },
+        {
+            "image": {
+                "title": "left to right: Graham Nash, Stephen Stills, Neil Young, and David Crosby",
+                "source": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Csny-8-20-06.jpg/75px-Csny-8-20-06.jpg"
+            },
+            "band": {
+                "name": "Crosby, Stills & Nash",
+                "url": "http://wikipedia.org/wiki/Crosby,_Stills,_Nash_%26_Young"
+            },
+            "inducted_members": [
+                {
+                    "name": "David Crosby",
+                    "url": "http://wikipedia.org/wiki/David_Crosby"
+                },
+                {
+                    "name": "Graham Nash",
+                    "url": "http://wikipedia.org/wiki/Graham_Nash"
+                },
+                {
+                    "name": "Stephen Stills",
+                    "url": "http://wikipedia.org/wiki/Stephen_Stills"
+                }
+            ],
+            "inducted_by": {
+                "name": "James Taylor",
+                "url": "http://wikipedia.org/wiki/James_Taylor"
+            }
+        },
+        {
+            "image": {
+                "title": "Jackson 5 tv special 1972.JPG",
+                "source": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jackson_5_tv_special_1972.JPG/75px-Jackson_5_tv_special_1972.JPG"
+            },
+            "band": {
+                "name": "The Jackson 5",
+                "url": "http://wikipedia.org/wiki/The_Jackson_5"
+            },
+            "inducted_members": [
+                {
+                    "name": "Jackie Jackson",
+                    "url": "http://wikipedia.org/wiki/Jackie_Jackson"
+                },
+                {
+                    "name": "Jermaine Jackson",
+                    "url": "http://wikipedia.org/wiki/Jermaine_Jackson"
+                },
+                {
+                    "name": "Marlon Jackson",
+                    "url": "http://wikipedia.org/wiki/Marlon_Jackson"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "url": "http://wikipedia.org/wiki/Michael_Jackson"
+                },
+                {
+                    "name": "Tito Jackson",
+                    "url": "http://wikipedia.org/wiki/Tito_Jackson"
+                }
+            ],
+            "inducted_by": {
+                "name": "Diana Ross",
+                "url": "http://wikipedia.org/wiki/Diana_Ross"
+            }
+        },
+        {
+            "image": {
+                "title": "Mitchell performing in concert at the Universal Amphitheatre in August 1974",
+                "source": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Joni_mitchell_1974.jpg/75px-Joni_mitchell_1974.jpg"
+            },
+            "band": {
+                "name": "Joni Mitchell",
+                "url": "http://wikipedia.org/wiki/Joni_Mitchell"
+            },
+            "inducted_members": [],
+            "inducted_by": {
+                "name": "Shawn Colvin",
+                "url": "http://wikipedia.org/wiki/Shawn_Colvin"
+            }
+        },
+        {
+            "image": {
+                "title": "American funk musician George Clinton and his band Parliament Funkadelic performing at the Capitol City Carnival in Centreville, Virginia.",
+                "source": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/George_Clinton_in_Centreville.jpg/75px-George_Clinton_in_Centreville.jpg"
+            },
+            "band": {
+                "name": "Parliament-Funkadelic",
+                "url": "http://wikipedia.org/wiki/Parliament-Funkadelic"
+            },
+            "inducted_members": [
+                {
+                    "name": "Jerome Brailey",
+                    "url": "http://wikipedia.org/wiki/Jerome_Brailey"
+                },
+                {
+                    "name": "George Clinton",
+                    "url": "http://wikipedia.org/wiki/George_Clinton_(funk_musician)"
+                },
+                {
+                    "name": "Bootsy Collins",
+                    "url": "http://wikipedia.org/wiki/Bootsy_Collins"
+                },
+                {
+                    "name": "Raymond Davis",
+                    "url": "http://wikipedia.org/wiki/Ray_Davis_(musician)"
+                },
+                {
+                    "name": "Tiki Fulwood",
+                    "url": "http://wikipedia.org/wiki/Tiki_Fulwood"
+                },
+                {
+                    "name": "Glenn Goins",
+                    "url": "http://wikipedia.org/wiki/Glenn_Goins"
+                },
+                {
+                    "name": "Michael Hampton",
+                    "url": "http://wikipedia.org/wiki/Michael_Hampton"
+                },
+                {
+                    "name": "Fuzzy Haskins",
+                    "url": "http://wikipedia.org/wiki/Fuzzy_Haskins"
+                },
+                {
+                    "name": "Eddie Hazel",
+                    "url": "http://wikipedia.org/wiki/Eddie_Hazel"
+                },
+                {
+                    "name": "Walter Morrison",
+                    "url": "http://wikipedia.org/wiki/Walter_Morrison"
+                },
+                {
+                    "name": "Cordell Mosson",
+                    "url": "http://wikipedia.org/wiki/Cordell_Mosson"
+                },
+                {
+                    "name": "William \"Billy Bass\" Nelson",
+                    "url": "http://wikipedia.org/wiki/Billy_Bass_Nelson"
+                },
+                {
+                    "name": "Garry Shider",
+                    "url": "http://wikipedia.org/wiki/Garry_Shider"
+                },
+                {
+                    "name": "Calvin Simon",
+                    "url": "http://wikipedia.org/wiki/Calvin_Simon"
+                },
+                {
+                    "name": "Grady Thomas",
+                    "url": "http://wikipedia.org/wiki/Grady_Thomas"
+                },
+                {
+                    "name": "Bernie Worrell",
+                    "url": "http://wikipedia.org/wiki/Bernie_Worrell"
+                }
+            ],
+            "inducted_by": {
+                "name": "Prince",
+                "url": "http://wikipedia.org/wiki/Prince_(musician)"
+            }
+        },
+        {
+            "image": {
+                "title": "The Rascals 1969.JPG",
+                "source": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/The_Rascals_1969.JPG/75px-The_Rascals_1969.JPG"
+            },
+            "band": {
+                "name": "The (Young) Rascals",
+                "url": "http://wikipedia.org/wiki/The_Rascals"
+            },
+            "inducted_members": [
+                {
+                    "name": "Eddie Brigati",
+                    "url": "http://wikipedia.org/wiki/Eddie_Brigati"
+                },
+                {
+                    "name": "Felix Cavaliere",
+                    "url": "http://wikipedia.org/wiki/Felix_Cavaliere"
+                },
+                {
+                    "name": "Gene Cornish",
+                    "url": "http://wikipedia.org/wiki/Gene_Cornish"
+                },
+                {
+                    "name": "Dino Danelli",
+                    "url": "http://wikipedia.org/wiki/Dino_Danelli"
+                }
+            ],
+            "inducted_by": {
+                "name": "Steven Van Zandt",
+                "url": "http://wikipedia.org/wiki/Steven_Van_Zandt"
+            }
+        }
+    ]
+}
